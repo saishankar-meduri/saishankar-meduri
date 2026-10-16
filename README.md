@@ -22,10 +22,10 @@ saishankar@github:~$ neofetch
 saishankar@github:~$ ls projects/
 ```
 
-- **[NeuroLint](https://github.com/Gitmama123/NeuroLint)** — AI-powered VS Code extension for code complexity analysis, cognitive load scoring, and adaptive refactoring suggestions. `TypeScript`
-- **[neurolint-backend](https://github.com/Gitmama123/neurolint-backend)** — Backend service powering NeuroLint. `JavaScript`
-- **[EventManagement](https://github.com/Gitmama123/EventManagement)** — Flask-based event management system with conflict-free scheduling, real-time analytics, and role-based access. `Python`
-- **[Virtual-mouse](https://github.com/Gitmama123/Virtual-mouse)** — Control your cursor using hand gestures via webcam. `Python`
+- **[NeuroLint](https://github.com/saishankar-meduri/NeuroLint)** — AI-powered VS Code extension for code complexity analysis, cognitive load scoring, and adaptive refactoring suggestions. `TypeScript`
+- **[neurolint-backend](https://github.com/saishankar-meduri/neurolint-backend)** — Backend service powering NeuroLint. `JavaScript`
+- **[EventManagement](https://github.com/saishankar-meduri/EventManagement)** — Flask-based event management system with conflict-free scheduling, real-time analytics, and role-based access. `Python`
+- **[Virtual-mouse](https://github.com/saishankar-meduri/Virtual-mouse)** — Control your cursor using hand gestures via webcam. `Python`
 
 ```bash
 saishankar@github:~$ cat contact.txt
@@ -38,7 +38,7 @@ Status    : Open to interesting builds
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-eta-ten-w5ixvzlx2y.vercel.app/api?username=Gitmama123&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-eta-ten-w5ixvzlx2y.vercel.app/api?username=saishankar-meduri&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats-eta-ten-w5ixvzlx2y.vercel.app/api/top-langs/?username=Gitmama123&layout=compact&theme=chartreuse-dark&hide_border=true)
 
